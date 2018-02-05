@@ -12,6 +12,8 @@
 !/log/.keep
 /tmp
 
+.pol.env
+
 *.rbc
 capybara-*.html
 .rspec
